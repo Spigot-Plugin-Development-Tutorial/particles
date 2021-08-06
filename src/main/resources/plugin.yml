@@ -1,0 +1,7 @@
+name: Particles
+version: ${project.version}
+main: me.kodysimpson.particles.Particles
+api-version: 1.17
+commands:
+  spiral:
+    description: spiral woo
